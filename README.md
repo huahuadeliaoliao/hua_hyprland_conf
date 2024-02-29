@@ -1,2 +1,2 @@
 # hua_hyprland_conf
-Personal hyprland related configuration
+Personal hyprland related configuration/个人正在使用的hyprland相关配置
